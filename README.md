@@ -14,6 +14,12 @@
     <td>Yes	</td>
     <td>Get current time</td>
   </tr>
+  <tr>
+    <td>POST</td>
+    <td>/user/register</td>
+    <td>No</td>
+    <td>Create account for user</td>
+  </tr> 
  </table>
 <br>
   
